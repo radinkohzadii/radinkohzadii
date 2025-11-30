@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Radin</h1>
 <h3 align="center">A passionate developer from Iran</h3>
 
+<img align="right" alt"Radin" width="400" src"https://cdn.dribbble.com/userupload/30832962/file/original-199091f9b19f067153ecd518321a3898.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radinkohzadi&label=Profile%20views&color=0e75b6&style=flat" alt="radinkohzadi" /> </p>
 
 - 🌱 I’m currently learning **Data Analsis with PYTHON**
